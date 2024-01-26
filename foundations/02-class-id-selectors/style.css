@@ -1,0 +1,22 @@
+.paragraph {
+
+    background-color: rgb(213, 108, 69);
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+.massive {
+
+    font-size: 24px;
+}
+
+#one {
+
+    color: rgb(83, 83, 230);
+    font-size: 36px;
+}
+
+#two {
+
+    background-color: #8edb8e;
+    font-size: 24px;
+    font-weight: bold;
+}
